@@ -13,7 +13,7 @@ fun String.masked (): String {
 
 }
 
-    fun main(args: Array<String>) {
+    fun main() {
         var name: String? = "Gabriel"
         println(name.toString())
 

@@ -5,7 +5,7 @@ fun printValue(obj: Any) {
         println(obj)
 }
 
-fun main(args: Array<String>){
+fun main(){
     val person = "String Teste"
     printValue (person)
 }
