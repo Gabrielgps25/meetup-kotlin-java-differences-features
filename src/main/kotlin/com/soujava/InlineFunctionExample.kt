@@ -24,4 +24,4 @@ fun main() {
 // Output
    // start sleep
    // End sleep
-   // Duração: 200878000 Retorno: kotlin Unit
+   // Duração: 200878000
